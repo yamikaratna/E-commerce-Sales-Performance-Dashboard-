@@ -17,3 +17,5 @@ This Tableau report provides an interactive analysis of e-commerce sales perform
 ## Outcome  
 The dashboard provides a comprehensive view of e-commerce sales trends, helping businesses optimize product strategies and market focus.  
 
+## my [Tableau portfolio](https://public.tableau.com/app/profile/yamika.ratna.kadiyala/vizzes)
+
